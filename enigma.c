@@ -44,12 +44,12 @@ void GenerateInvPerm(){
             }    
         }
     }
-    for(int i = 0; i < 3; i++) {
+    /*for(int i = 0; i < 3; i++) {
         for(int j=0; j < 26; j++) {
             printf("%c", ('a' + invrotor[i][j]));
         }
         printf("\n");
-    }
+    }*/
 }
 
 void Text2Value(void){
